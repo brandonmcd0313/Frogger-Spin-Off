@@ -1,0 +1,4887 @@
+fileFormatVersion: 2
+guid: e80cc494c24cb9942afff9506e6c3dfe
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 16
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Arcade - Frogger - General Rip_0
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 470
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 537dbfc3c567f5149a2e3487c2c04295
+      internalID: 2127087116
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Frogger - General Rip_1
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 470
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 07536a08b0879854aa391437e3d7714c
+      internalID: -1942056209
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Frogger - General Rip_2
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 470
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 25aa43439eb4e344597b00a61c93b506
+      internalID: -103036021
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Frogger - General Rip_3
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 470
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb971b2c0487431469e6f77971416c30
+      internalID: -236882993
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Frogger - General Rip_4
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 470
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b4ffdc2bc0870934696c2a11b692cee4
+      internalID: 1636405846
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Frogger - General Rip_5
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 470
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 984c7923955c81341a922814e51822da
+      internalID: 2100160039
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Frogger - General Rip_6
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 470
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 21b1120fef7d2394f8f2931de68874a8
+      internalID: -1739392287
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Frogger - General Rip_7
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 470
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee1374ced8684d64a8f1c568edd34094
+      internalID: -91719537
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Frogger - General Rip_8
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 452
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 949e3ad1fd1c0e7409e469fa4419943d
+      internalID: 1541025422
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Frogger - General Rip_9
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 452
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 98817084ea15873409d31623792bc5b2
+      internalID: -425646380
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Frogger - General Rip_10
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 452
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef496fddc0b789a4f99776d237471f4b
+      internalID: -1897370966
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Frogger - General Rip_11
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 452
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f9faca516adaf1e40ad68fbe95cf3b60
+      internalID: 825918340
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Frogger - General Rip_12
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 452
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 91a3c6606cee1c248bf898efbbb07aaf
+      internalID: 1432769192
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Frogger - General Rip_13
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 452
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5fa33de92765fd948a98106617ee75ee
+      internalID: -193680718
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Frogger - General Rip_14
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 452
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 08d42a6b950ca574c96d422c73969f18
+      internalID: -659165454
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Frogger - General Rip_15
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 452
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c9e0bf7b2f677e44b789f2d21ead0fc
+      internalID: 2079961434
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Frogger - General Rip_16
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 434
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 70bd4bdf6fa2a9b41b5a902709d35ea6
+      internalID: 194269832
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Frogger - General Rip_17
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 434
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 933cb6a8fcbf405409c45881efd86e10
+      internalID: -2028923532
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Frogger - General Rip_18
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 434
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 020067821faa17c4f967fbc4e8b4605f
+      internalID: -760877420
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Frogger - General Rip_19
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 434
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0726c22e135d79443b0e3da85c57531e
+      internalID: 607487331
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Frogger - General Rip_20
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 434
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 43f35b23d6faa4d469f77d145572505f
+      internalID: 1618048274
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Frogger - General Rip_21
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 434
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 14db7072e1bfcaf43a059e936bb791e7
+      internalID: 1667669298
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Frogger - General Rip_22
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 434
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a9fc819d390fd134f9438adef52f5db5
+      internalID: 127857269
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Frogger - General Rip_23
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 434
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dce16c0c947d96e459babe50b94be0e4
+      internalID: -1753303254
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Frogger - General Rip_24
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 416
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: acb786042e5d87e4fb441258ddc8b106
+      internalID: 974961486
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Frogger - General Rip_25
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 416
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d738265c111cd34ba21efa811333fb7
+      internalID: -173870292
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Frogger - General Rip_26
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 416
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0bf95b20556a87b46a081090c4663161
+      internalID: -1296316329
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Frogger - General Rip_27
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 416
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f0f52dbba1123cc41b0e82447f9f7c6b
+      internalID: -2031843885
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Frogger - General Rip_28
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 416
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a2adbb3d10167643b1f3a4a2350a2c0
+      internalID: -1039812838
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Frogger - General Rip_29
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 416
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0edc82799f18a7148b41dd406a9f3969
+      internalID: 844055551
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Frogger - General Rip_30
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 416
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb6d5c85e8fb9f44db9f7a4f921dac90
+      internalID: -65076099
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Frogger - General Rip_31
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 416
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af6c90c89eb20b740a10282f6c6470d0
+      internalID: 314657013
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Frogger - General Rip_32
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 398
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b54201cae7219d64b9dadd6386ecafeb
+      internalID: -72060138
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Frogger - General Rip_33
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 398
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9efee5164ea2cc8418ddd7a6673e89c2
+      internalID: -1804870470
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Frogger - General Rip_34
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 398
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca232a3729209e247a043a3015e3ea20
+      internalID: -1865324308
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Frogger - General Rip_35
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 398
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed9f5882c5d5ac5498153fdd0bba02be
+      internalID: -1294847185
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Frogger - General Rip_36
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 398
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e27c71755f5bfb0439462846a1033d80
+      internalID: -1489004194
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Frogger - General Rip_37
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 398
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd9af4613f4c08240a6413ec6454a8f5
+      internalID: -726313914
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Frogger - General Rip_38
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 398
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 99c210318381b8f4398be77b701d5b17
+      internalID: 861475269
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Frogger - General Rip_39
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 398
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eca1b0798c1452845baa255de9627e54
+      internalID: 2535401
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Frogger - General Rip_40
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 380
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc805f24c311d3f4e86f0b31b27df8c9
+      internalID: -1233684434
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Frogger - General Rip_41
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 380
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: edfbd9dea31a08c479dfd9f198f3006e
+      internalID: 308238614
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Frogger - General Rip_42
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 380
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a16cff2b77eefa438a71457024d4122
+      internalID: 7678564
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Frogger - General Rip_43
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 380
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d27ef3d6224504a4d84a4cdc891b67d9
+      internalID: 1627608034
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Frogger - General Rip_44
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 380
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 044bc27dce6749f49aae4440531ff1f5
+      internalID: -1844897628
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Frogger - General Rip_45
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 380
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c2c8a9320369d249a75c05ee6239fb4
+      internalID: -2077292026
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Frogger - General Rip_46
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 380
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 076f3a0744503984788a1ca02b90390c
+      internalID: 1449488821
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Frogger - General Rip_47
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 380
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 58055aa43cb874540a17db1b97dda518
+      internalID: -1342106229
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Frogger - General Rip_48
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 362
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e775f9d974211914898f58671e4aec39
+      internalID: -1888184496
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Frogger - General Rip_49
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 362
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 96276aab89bc4c24fb912feaadada82d
+      internalID: -633479164
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Frogger - General Rip_50
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 362
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a8d75a4ac0ff61e4b91a8fae60b17c47
+      internalID: 752542415
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Frogger - General Rip_51
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 362
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed463492a34ccff42b93616334a61e28
+      internalID: 338144421
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Frogger - General Rip_52
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 362
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c2038bd3ce585c45a5f88b072ff32c6
+      internalID: -879282790
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Frogger - General Rip_53
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 362
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 78f6070d98f01e845886c4bafff41ce9
+      internalID: -1788605668
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Frogger - General Rip_54
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 362
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 197a1dd6919681f479284cefcbd63297
+      internalID: -342559429
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Frogger - General Rip_55
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 362
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ba1c4308a8b24348bed25cf79420424
+      internalID: 1388411775
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Frogger - General Rip_56
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 344
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f4f31e4d3d7993c458f9d94f04273c2b
+      internalID: 1309955665
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Frogger - General Rip_57
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 344
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d682d461f70c5e0499eb1f1417dac585
+      internalID: -28531254
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Frogger - General Rip_58
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 344
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 45b30819498065c40baa481e477f9b39
+      internalID: 868048340
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Frogger - General Rip_59
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 344
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba5735d4c1c55224c9f02c1a90cc7624
+      internalID: -753095290
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Frogger - General Rip_60
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 344
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b0cddeaf2d856534bbb04001ed3a6c78
+      internalID: 1582656708
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Frogger - General Rip_61
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 344
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d93fb746a3e5d3499a9ae0033f06622
+      internalID: -1976754848
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Frogger - General Rip_62
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 344
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c176faec1dc3504cbf7fe9dc962bb18
+      internalID: -778068677
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Frogger - General Rip_63
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 344
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a2ed9ae7526fae418739985f446de57
+      internalID: 304883405
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Frogger - General Rip_64
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 326
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3139516ba0f33744fba29d6a6a5918db
+      internalID: -608852600
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Frogger - General Rip_65
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 326
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bfe93b9f964fda044877452eabe349ff
+      internalID: 1015131048
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Frogger - General Rip_66
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 326
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1752a1e68c5cbcf45b058f6720fc77bf
+      internalID: 2089785974
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Frogger - General Rip_67
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 326
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1dcf2f5c3c4d76c4f847beb1a8e624b1
+      internalID: 806314303
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Frogger - General Rip_68
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 326
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 488d9041ea7fe7840abdad83b7ba3ab2
+      internalID: -1788764111
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Frogger - General Rip_69
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 326
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f3cfc3981a53be4492a193729d3015e
+      internalID: -208083485
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Frogger - General Rip_70
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 326
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f7409b1657c37a47be52cec23f5c6c0
+      internalID: -1341153810
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Frogger - General Rip_71
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 326
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db714abbc69eea34e941755dfcca1d42
+      internalID: 723944556
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Frogger - General Rip_72
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 308
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a251cf4465609e440bc7f6528662517a
+      internalID: 967292716
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Frogger - General Rip_73
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 308
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 80f1e3a84537b15458d235e8a1f867f3
+      internalID: 2098509679
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Frogger - General Rip_74
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 308
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1adbb435601ac5c4ba7eeb360bcadb03
+      internalID: 927091460
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Frogger - General Rip_75
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 308
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 07eed06484e59ba4b8b3045d89fcf187
+      internalID: -1124845329
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Frogger - General Rip_76
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 308
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 10a03bd3997361547a0575a48d348596
+      internalID: 578170911
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Frogger - General Rip_77
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 308
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc3855e350dbe7b42a30f99ee36f013e
+      internalID: -988229691
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Frogger - General Rip_78
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 308
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a54637c4ea6ff24aaef35d89cfa270d
+      internalID: -1357984959
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Frogger - General Rip_79
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 308
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d89f7bc8c2825b54f9a7638115fcb446
+      internalID: -139268073
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Frogger - General Rip_80
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 290
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e80af7e49da533643b73fb00b6a84cd0
+      internalID: -108394053
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Frogger - General Rip_81
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 290
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 81a513c4d00b4dd4e9daa333d2c63692
+      internalID: 1846797134
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Frogger - General Rip_82
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 290
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 55221d53e45295a4f9926834c321a362
+      internalID: 1453064096
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Frogger - General Rip_83
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 290
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 84474edf7a362064a89bcaa2329777bf
+      internalID: 1576412310
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Frogger - General Rip_84
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 290
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 705b2232d56fbaa4dbfb18f0a6f796b6
+      internalID: 148337213
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Frogger - General Rip_85
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 290
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 785e523f5cd493a4fa86bc9d8ddc0b87
+      internalID: -701920307
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Frogger - General Rip_86
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 290
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 556339db00afc1c4bbcb31244a5e8046
+      internalID: 764252618
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Frogger - General Rip_87
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 290
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 40844423e9ae16e458dcdf8a22f3b11b
+      internalID: 1663321433
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Frogger - General Rip_88
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 272
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3291ec30bdc833749a951ee51a2f3b08
+      internalID: 253836960
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Frogger - General Rip_89
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 272
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 311d4da4ff0314442a8de654ce45a3ed
+      internalID: 833804846
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Frogger - General Rip_90
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 272
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d3ccbc09f15207f4ea17f1a0c209bf92
+      internalID: 1808309196
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Frogger - General Rip_91
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 272
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e684cee6b32aaee45bbc0bc27a41964e
+      internalID: 1228834155
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Frogger - General Rip_92
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 272
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc896c0fa693f1a4ca924bc2c40c963e
+      internalID: 1485917635
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Frogger - General Rip_93
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 272
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8fbe29035ecea7f4c841a5cbdc44d02b
+      internalID: -1580627172
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Frogger - General Rip_94
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 272
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db14836cfdb82854799e6e9310d6874c
+      internalID: 255428420
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Frogger - General Rip_95
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 272
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a4d4495cc9871dc4585d6b799c24139e
+      internalID: 885084718
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Frogger - General Rip_96
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 254
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f7584a573ba3a0d4883fa97234e14e9d
+      internalID: -997635733
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Frogger - General Rip_97
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 254
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 628b1c7c38eefda4db8fe222bed8d52b
+      internalID: 1094045135
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Frogger - General Rip_98
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 254
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e9c52d25d9d46343969d5f7cc79edbe
+      internalID: 1997511664
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Frogger - General Rip_99
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 254
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 38befbc50709c424ebb23932afff5a7a
+      internalID: 1754649899
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Frogger - General Rip_100
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 254
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e5e6c933a49b7784ea7322a7a243ee0e
+      internalID: -1877088224
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Frogger - General Rip_101
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 254
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9aaa82dccaea5e047826a88d2cc11449
+      internalID: 437408056
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Frogger - General Rip_102
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 254
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a5445f26ce0da04d99f3677ba8164cb
+      internalID: 1918724869
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Frogger - General Rip_103
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 254
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c02c281def0cc034791369cc93db21b3
+      internalID: -599941584
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Frogger - General Rip_104
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 236
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 727e1ddacc3d3fa40a75bf0101b04987
+      internalID: -200313089
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Frogger - General Rip_105
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 236
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: acd86799ac1f2ed4aa2b57e6f80ee592
+      internalID: -1911339563
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Frogger - General Rip_106
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 236
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 84e3fd3d56a06db48a0d92ab7ac31851
+      internalID: -1300473750
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Frogger - General Rip_107
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 236
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e2f0beed348be514eb65380a4c719079
+      internalID: -1784937689
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Frogger - General Rip_108
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 236
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a8def5cd530d5774e958dc99577afcc5
+      internalID: -1260493788
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Frogger - General Rip_109
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 236
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c582c8e232d82d4dacec01245164f6f
+      internalID: -433668186
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Frogger - General Rip_110
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 236
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b249464e5bcfa74182c1f53f2dda95f
+      internalID: 1306823234
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Frogger - General Rip_111
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 236
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 92fe268efd91f434586d59710e784f58
+      internalID: -1118720261
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Frogger - General Rip_112
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 218
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a4d104d09df5ee040b9ec48ca7b27ea6
+      internalID: -1806652583
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Frogger - General Rip_113
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 218
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0452acb05abf8c14291602d4d62f92ee
+      internalID: -2082319622
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Frogger - General Rip_114
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 218
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3df6e0cb6c30af54f80cec02f41a75ed
+      internalID: 2064051909
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Frogger - General Rip_115
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 218
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fea42dfe9554c144680425c761693164
+      internalID: 443369138
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Frogger - General Rip_116
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 218
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c8f72043cbd94c9409d796e1b85d6ade
+      internalID: -173404805
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Frogger - General Rip_117
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 218
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e4ad2c5077ba9f146ba789cea61f5d49
+      internalID: 480187797
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Frogger - General Rip_118
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 218
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 02cb879e2f02dbe4fab960d6a0e6f503
+      internalID: 1147812683
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Frogger - General Rip_119
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 218
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dcffc26aeef6a5d409b6650ff35c87bc
+      internalID: -2041350288
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Frogger - General Rip_120
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 200
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ec8f9fc9383e0e46bc60d255b4498a4
+      internalID: -80736820
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Frogger - General Rip_121
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 200
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7754868a8c0d0dd47b64c612b972d47b
+      internalID: -2029614709
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Frogger - General Rip_122
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 200
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7fc014336275f5149be5c2f083cb5d0e
+      internalID: -1981801336
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Frogger - General Rip_123
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 200
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d4b047cccad64c743a3a09d46dcb239e
+      internalID: 847538028
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Frogger - General Rip_124
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 200
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b2234dd1a6278864f8e9c8b14fbc4a97
+      internalID: -1183481534
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Frogger - General Rip_125
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 200
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 470ad364407495b4e9018bb5f4455134
+      internalID: 1117116585
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Frogger - General Rip_126
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 200
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b93da25c62d61ab43935487cf2597802
+      internalID: -405652335
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Frogger - General Rip_127
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 200
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d0e5c6a996d90d499f885d52a4c03d2
+      internalID: 856661331
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Frogger - General Rip_128
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 182
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 83a6a12cee6d2894085fef3392132a5d
+      internalID: -931529457
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Frogger - General Rip_129
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 182
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 40221dd2ad586fc4aa173e4cb8a930ba
+      internalID: 2075807751
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Frogger - General Rip_130
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 182
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7333ca5638faa884985aa9b39a4d3036
+      internalID: 1288045828
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Frogger - General Rip_131
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 182
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e07276eecb1647b49a6de9b6bbdaa890
+      internalID: -2117584620
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Frogger - General Rip_132
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 182
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 45653f465a1fb1e4ba1e24cb68c9a7a8
+      internalID: 51804168
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Frogger - General Rip_133
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 182
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0234356e810a7fb41b9c7d54b9b2a282
+      internalID: -1710498098
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Frogger - General Rip_134
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 182
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c2475f586f030364e95d4ccc17e72a29
+      internalID: -915089571
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Frogger - General Rip_135
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 182
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 86f6cff62c7445f42b119a316e917969
+      internalID: 382866710
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Frogger - General Rip_136
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 164
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e2fe6c1de6785dc488cb917249a6c376
+      internalID: 1272703364
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Frogger - General Rip_137
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 164
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f7a66780d46e69640be71260512c481c
+      internalID: 1167661067
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Frogger - General Rip_138
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 164
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a3bbbc8b00eeda44db7fb39940a7fd13
+      internalID: 1072472847
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Frogger - General Rip_139
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 164
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c4e61950f81157438fa93c58bbc1b4b
+      internalID: -2069339641
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Frogger - General Rip_140
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 164
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cec7c911b002d984c8c0d724487322ec
+      internalID: -2057318689
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Frogger - General Rip_141
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 164
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae38fc10afdbaae47a4c533394dd064d
+      internalID: -219149606
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Frogger - General Rip_142
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 164
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dea20e77dc44c1546a6da520c42aebf5
+      internalID: 1542743014
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Frogger - General Rip_143
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 164
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f968829b8c74fc4ab803d2edc179481
+      internalID: 2017269311
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Frogger - General Rip_144
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 146
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f2fffdce5d149149a3f682944767572
+      internalID: -986741358
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Frogger - General Rip_145
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 146
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad05924c633f0f94d87ee503ec17b655
+      internalID: 609292491
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Frogger - General Rip_146
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 146
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 98b36b08812b7ea4989d1fc5b30d9827
+      internalID: 178231739
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Frogger - General Rip_147
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 146
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a3f2334115721c34989dbf0485f129ca
+      internalID: 363695534
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Frogger - General Rip_148
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 146
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bba992005c6afa048819f33d90d70f65
+      internalID: 894353723
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Frogger - General Rip_149
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 146
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 26b5400e69885dc4eb2cfae16187b542
+      internalID: -1447290932
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Frogger - General Rip_150
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 146
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0dc13dccf5776f24eb0d9dd5bc48f591
+      internalID: 327010258
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Frogger - General Rip_151
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 146
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d321ef30617a66a4b96f1ede4fa519be
+      internalID: 930405516
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Frogger - General Rip_152
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 128
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 02b1221a896d4674f8d7b647d46b4d93
+      internalID: 634125734
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Frogger - General Rip_153
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 128
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b36c18105be9ebb4e950ea60e43da893
+      internalID: -385552030
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Frogger - General Rip_154
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 128
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 96c453d191746764ca30652c99fef701
+      internalID: -2048704087
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Frogger - General Rip_155
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 128
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 141dd1acab7112f49bb10bc881712047
+      internalID: 1855627666
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Frogger - General Rip_156
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 128
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e5d3b14fd0837d4fa5db3f714677634
+      internalID: 199393140
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Frogger - General Rip_157
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 128
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb39a03f16168ab46b205e59bfeb1238
+      internalID: 1465873931
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Frogger - General Rip_158
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 128
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f4cdf747c56fc84795f2c4960046b60
+      internalID: 437330454
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Frogger - General Rip_159
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 128
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c37ebd4ab336134b91ecd6e43ab8e7b
+      internalID: -1334011129
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Frogger - General Rip_160
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 110
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1da76e62f673de3488ca4d2307ac6626
+      internalID: -959166166
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Frogger - General Rip_161
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 110
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7087bbc613053c04fa7e729c8fd2d852
+      internalID: 1411613585
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Frogger - General Rip_162
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 110
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 83fc7d9e0fb5d3b4f917e6b1bdd756c9
+      internalID: -283966736
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Frogger - General Rip_163
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 110
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fbd9641ab900ce543bbbb1ad8b0c3bdf
+      internalID: 1445797319
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Frogger - General Rip_164
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 110
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 18b294cb027f26248a7f3b10fa368c14
+      internalID: 62211010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Frogger - General Rip_165
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 110
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c074347fceef834fa1367ee0713aa30
+      internalID: -1303304480
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Frogger - General Rip_166
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 110
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: acba4bb655552dd48846c6bbdb07e878
+      internalID: 810770170
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Frogger - General Rip_167
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 110
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e52d9c79385e7449bb66fb9a300c55d
+      internalID: -1170057731
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Frogger - General Rip_168
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 92
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f9ad4978597fd5d4c95d6d65348eb042
+      internalID: -886197527
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Frogger - General Rip_169
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 92
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f2708a49110c3b44e9dcfb7b64dfd8a7
+      internalID: -2060377470
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Frogger - General Rip_170
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 92
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f5965f498d3728145adc7c0c9a8230a6
+      internalID: -1417598837
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Frogger - General Rip_171
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 92
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a49e5c048fc1ddb438a1865aa2402f07
+      internalID: 1949248791
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Frogger - General Rip_172
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 92
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b7c7522440022c49ba192eb393701e1
+      internalID: 1196729403
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Frogger - General Rip_173
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 92
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 64f00d8d25fc831459aad31b3b9a83fc
+      internalID: 901978198
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Frogger - General Rip_174
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 92
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f09a121018814f449991bce4c04a71d9
+      internalID: 564443371
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Frogger - General Rip_175
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 92
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a66d7077dd1931e4b822fb00a2d883a4
+      internalID: 1506261874
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Frogger - General Rip_176
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 74
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 64963c471928fbc47896d4dcca835523
+      internalID: -1566444760
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Frogger - General Rip_177
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 74
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d7ef2ff30fb2e64f87ba0f4a95b313c
+      internalID: 661974359
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Frogger - General Rip_178
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 74
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a6699d48aa3b23543801a604d262ee10
+      internalID: -1058589182
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Frogger - General Rip_179
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 74
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d5511453d71a4c741865d656c3aad8f3
+      internalID: 988218573
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Frogger - General Rip_180
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 74
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d8eca6086f35ced45b814fad6a8f5136
+      internalID: 174908936
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Frogger - General Rip_181
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 74
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c5df6fb587f25a24ba1f41d7217d52f1
+      internalID: -1332777423
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Frogger - General Rip_182
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 74
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 24c71a191099ea54485eb8d6be26193e
+      internalID: -957409356
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Frogger - General Rip_183
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 74
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b072e63765ff1444492beeaf7bbc738b
+      internalID: 967531626
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Frogger - General Rip_184
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 56
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9de3a506ee5eb7f43914c5eddde29f2f
+      internalID: 2002671505
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Frogger - General Rip_185
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 56
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 54f0c31b373f9af45a402342664b0a21
+      internalID: 1915781445
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Frogger - General Rip_186
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 56
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9516d7eeea3e1164caf5271e3754ff81
+      internalID: -1709395884
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Frogger - General Rip_187
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 56
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e73f688918518bf47a36b24d6e5bf58a
+      internalID: 440862218
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Frogger - General Rip_188
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 56
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 91cffbf9d55e24f4fa1a5975d722e750
+      internalID: -1985131306
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Frogger - General Rip_189
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 56
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 278c0a7e88960ab4b9950078da62e722
+      internalID: 2081405920
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Frogger - General Rip_190
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 56
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 39739d2799738ca4494b0e114a11f3c8
+      internalID: 1552331710
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Frogger - General Rip_191
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 56
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab6c9909d6216c14e974d408c97c48a4
+      internalID: -50569675
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Frogger - General Rip_192
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 38
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4836447e727d3004c9825fc0b039ae73
+      internalID: 1562725348
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Frogger - General Rip_193
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 38
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de04e65b5e6f2f3498f3a523b39d5203
+      internalID: 860400586
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Frogger - General Rip_194
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 38
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b032bcc1c251bbe4e8062cc3ffc98906
+      internalID: -70830518
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Frogger - General Rip_195
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 38
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7bfca378aec8c4742976916ea65a2b21
+      internalID: 741965657
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Frogger - General Rip_196
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 38
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a98f3f2594c8ee2489257e124ca01637
+      internalID: 673635935
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Frogger - General Rip_197
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 38
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e7b8aa19e075d2f47b95d89ff0c705ac
+      internalID: 714307196
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Frogger - General Rip_198
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 38
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d3aa31f67994aa49b5cca075db4a2d9
+      internalID: -262151640
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Frogger - General Rip_199
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 38
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf2fea653ba5ccf45977e0c37f16cbd1
+      internalID: 29719257
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Frogger - General Rip_200
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 20
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 325717ef243466243a095f764a5aee79
+      internalID: 1091502942
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Frogger - General Rip_201
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 20
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ce8de0dae037bc4ba8db413631d4aca
+      internalID: 1711718444
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Frogger - General Rip_202
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 20
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5dd182c1854f11e40aab74ca8b02a591
+      internalID: 82795881
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Frogger - General Rip_203
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 20
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7334ac69c6d70ac4d98604b161d3821a
+      internalID: -709169992
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Frogger - General Rip_204
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 20
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b5bad797efd39f140a892f3d2c663bf3
+      internalID: 1673220779
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Frogger - General Rip_205
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 20
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 77f9efce3775d694eb5fe8f5fb74b0d8
+      internalID: -1130645423
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Frogger - General Rip_206
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 20
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d8216b55645c18488f2c5cb7e154db9
+      internalID: -903376677
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Frogger - General Rip_207
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 20
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 884784fa3c13f294eb441234ef723a5f
+      internalID: -387532637
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Frogger - General Rip_208
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 2
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e08bc5f6667c654fbc46bb81b59b157
+      internalID: -1399894215
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Frogger - General Rip_209
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 2
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 88a1179f2ce44724b8189b7f2ab3baa4
+      internalID: -198444105
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Frogger - General Rip_210
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 2
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec0e113f443ff014686b49e124f6c5b2
+      internalID: 945711838
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Frogger - General Rip_211
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 2
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af88b0061d592c944a78540b9b829dd9
+      internalID: 420734718
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Frogger - General Rip_212
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 2
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4dca2b44f77bbae42b5aa6dbf6464f55
+      internalID: -489024506
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Frogger - General Rip_213
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 2
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 129224ef81cff604884b7c9d33be02df
+      internalID: 863802326
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Frogger - General Rip_214
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 2
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f4c4b840538a5e4896f134bca1a3abb
+      internalID: -1070986572
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Frogger - General Rip_215
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 2
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a0b9540e194c84d4ea0b599b54bd8d35
+      internalID: -1402648384
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Arcade - Frogger - General Rip_0: 2127087116
+      Arcade - Frogger - General Rip_1: -1942056209
+      Arcade - Frogger - General Rip_10: -1897370966
+      Arcade - Frogger - General Rip_100: -1877088224
+      Arcade - Frogger - General Rip_101: 437408056
+      Arcade - Frogger - General Rip_102: 1918724869
+      Arcade - Frogger - General Rip_103: -599941584
+      Arcade - Frogger - General Rip_104: -200313089
+      Arcade - Frogger - General Rip_105: -1911339563
+      Arcade - Frogger - General Rip_106: -1300473750
+      Arcade - Frogger - General Rip_107: -1784937689
+      Arcade - Frogger - General Rip_108: -1260493788
+      Arcade - Frogger - General Rip_109: -433668186
+      Arcade - Frogger - General Rip_11: 825918340
+      Arcade - Frogger - General Rip_110: 1306823234
+      Arcade - Frogger - General Rip_111: -1118720261
+      Arcade - Frogger - General Rip_112: -1806652583
+      Arcade - Frogger - General Rip_113: -2082319622
+      Arcade - Frogger - General Rip_114: 2064051909
+      Arcade - Frogger - General Rip_115: 443369138
+      Arcade - Frogger - General Rip_116: -173404805
+      Arcade - Frogger - General Rip_117: 480187797
+      Arcade - Frogger - General Rip_118: 1147812683
+      Arcade - Frogger - General Rip_119: -2041350288
+      Arcade - Frogger - General Rip_12: 1432769192
+      Arcade - Frogger - General Rip_120: -80736820
+      Arcade - Frogger - General Rip_121: -2029614709
+      Arcade - Frogger - General Rip_122: -1981801336
+      Arcade - Frogger - General Rip_123: 847538028
+      Arcade - Frogger - General Rip_124: -1183481534
+      Arcade - Frogger - General Rip_125: 1117116585
+      Arcade - Frogger - General Rip_126: -405652335
+      Arcade - Frogger - General Rip_127: 856661331
+      Arcade - Frogger - General Rip_128: -931529457
+      Arcade - Frogger - General Rip_129: 2075807751
+      Arcade - Frogger - General Rip_13: -193680718
+      Arcade - Frogger - General Rip_130: 1288045828
+      Arcade - Frogger - General Rip_131: -2117584620
+      Arcade - Frogger - General Rip_132: 51804168
+      Arcade - Frogger - General Rip_133: -1710498098
+      Arcade - Frogger - General Rip_134: -915089571
+      Arcade - Frogger - General Rip_135: 382866710
+      Arcade - Frogger - General Rip_136: 1272703364
+      Arcade - Frogger - General Rip_137: 1167661067
+      Arcade - Frogger - General Rip_138: 1072472847
+      Arcade - Frogger - General Rip_139: -2069339641
+      Arcade - Frogger - General Rip_14: -659165454
+      Arcade - Frogger - General Rip_140: -2057318689
+      Arcade - Frogger - General Rip_141: -219149606
+      Arcade - Frogger - General Rip_142: 1542743014
+      Arcade - Frogger - General Rip_143: 2017269311
+      Arcade - Frogger - General Rip_144: -986741358
+      Arcade - Frogger - General Rip_145: 609292491
+      Arcade - Frogger - General Rip_146: 178231739
+      Arcade - Frogger - General Rip_147: 363695534
+      Arcade - Frogger - General Rip_148: 894353723
+      Arcade - Frogger - General Rip_149: -1447290932
+      Arcade - Frogger - General Rip_15: 2079961434
+      Arcade - Frogger - General Rip_150: 327010258
+      Arcade - Frogger - General Rip_151: 930405516
+      Arcade - Frogger - General Rip_152: 634125734
+      Arcade - Frogger - General Rip_153: -385552030
+      Arcade - Frogger - General Rip_154: -2048704087
+      Arcade - Frogger - General Rip_155: 1855627666
+      Arcade - Frogger - General Rip_156: 199393140
+      Arcade - Frogger - General Rip_157: 1465873931
+      Arcade - Frogger - General Rip_158: 437330454
+      Arcade - Frogger - General Rip_159: -1334011129
+      Arcade - Frogger - General Rip_16: 194269832
+      Arcade - Frogger - General Rip_160: -959166166
+      Arcade - Frogger - General Rip_161: 1411613585
+      Arcade - Frogger - General Rip_162: -283966736
+      Arcade - Frogger - General Rip_163: 1445797319
+      Arcade - Frogger - General Rip_164: 62211010
+      Arcade - Frogger - General Rip_165: -1303304480
+      Arcade - Frogger - General Rip_166: 810770170
+      Arcade - Frogger - General Rip_167: -1170057731
+      Arcade - Frogger - General Rip_168: -886197527
+      Arcade - Frogger - General Rip_169: -2060377470
+      Arcade - Frogger - General Rip_17: -2028923532
+      Arcade - Frogger - General Rip_170: -1417598837
+      Arcade - Frogger - General Rip_171: 1949248791
+      Arcade - Frogger - General Rip_172: 1196729403
+      Arcade - Frogger - General Rip_173: 901978198
+      Arcade - Frogger - General Rip_174: 564443371
+      Arcade - Frogger - General Rip_175: 1506261874
+      Arcade - Frogger - General Rip_176: -1566444760
+      Arcade - Frogger - General Rip_177: 661974359
+      Arcade - Frogger - General Rip_178: -1058589182
+      Arcade - Frogger - General Rip_179: 988218573
+      Arcade - Frogger - General Rip_18: -760877420
+      Arcade - Frogger - General Rip_180: 174908936
+      Arcade - Frogger - General Rip_181: -1332777423
+      Arcade - Frogger - General Rip_182: -957409356
+      Arcade - Frogger - General Rip_183: 967531626
+      Arcade - Frogger - General Rip_184: 2002671505
+      Arcade - Frogger - General Rip_185: 1915781445
+      Arcade - Frogger - General Rip_186: -1709395884
+      Arcade - Frogger - General Rip_187: 440862218
+      Arcade - Frogger - General Rip_188: -1985131306
+      Arcade - Frogger - General Rip_189: 2081405920
+      Arcade - Frogger - General Rip_19: 607487331
+      Arcade - Frogger - General Rip_190: 1552331710
+      Arcade - Frogger - General Rip_191: -50569675
+      Arcade - Frogger - General Rip_192: 1562725348
+      Arcade - Frogger - General Rip_193: 860400586
+      Arcade - Frogger - General Rip_194: -70830518
+      Arcade - Frogger - General Rip_195: 741965657
+      Arcade - Frogger - General Rip_196: 673635935
+      Arcade - Frogger - General Rip_197: 714307196
+      Arcade - Frogger - General Rip_198: -262151640
+      Arcade - Frogger - General Rip_199: 29719257
+      Arcade - Frogger - General Rip_2: -103036021
+      Arcade - Frogger - General Rip_20: 1618048274
+      Arcade - Frogger - General Rip_200: 1091502942
+      Arcade - Frogger - General Rip_201: 1711718444
+      Arcade - Frogger - General Rip_202: 82795881
+      Arcade - Frogger - General Rip_203: -709169992
+      Arcade - Frogger - General Rip_204: 1673220779
+      Arcade - Frogger - General Rip_205: -1130645423
+      Arcade - Frogger - General Rip_206: -903376677
+      Arcade - Frogger - General Rip_207: -387532637
+      Arcade - Frogger - General Rip_208: -1399894215
+      Arcade - Frogger - General Rip_209: -198444105
+      Arcade - Frogger - General Rip_21: 1667669298
+      Arcade - Frogger - General Rip_210: 945711838
+      Arcade - Frogger - General Rip_211: 420734718
+      Arcade - Frogger - General Rip_212: -489024506
+      Arcade - Frogger - General Rip_213: 863802326
+      Arcade - Frogger - General Rip_214: -1070986572
+      Arcade - Frogger - General Rip_215: -1402648384
+      Arcade - Frogger - General Rip_22: 127857269
+      Arcade - Frogger - General Rip_23: -1753303254
+      Arcade - Frogger - General Rip_24: 974961486
+      Arcade - Frogger - General Rip_25: -173870292
+      Arcade - Frogger - General Rip_26: -1296316329
+      Arcade - Frogger - General Rip_27: -2031843885
+      Arcade - Frogger - General Rip_28: -1039812838
+      Arcade - Frogger - General Rip_29: 844055551
+      Arcade - Frogger - General Rip_3: -236882993
+      Arcade - Frogger - General Rip_30: -65076099
+      Arcade - Frogger - General Rip_31: 314657013
+      Arcade - Frogger - General Rip_32: -72060138
+      Arcade - Frogger - General Rip_33: -1804870470
+      Arcade - Frogger - General Rip_34: -1865324308
+      Arcade - Frogger - General Rip_35: -1294847185
+      Arcade - Frogger - General Rip_36: -1489004194
+      Arcade - Frogger - General Rip_37: -726313914
+      Arcade - Frogger - General Rip_38: 861475269
+      Arcade - Frogger - General Rip_39: 2535401
+      Arcade - Frogger - General Rip_4: 1636405846
+      Arcade - Frogger - General Rip_40: -1233684434
+      Arcade - Frogger - General Rip_41: 308238614
+      Arcade - Frogger - General Rip_42: 7678564
+      Arcade - Frogger - General Rip_43: 1627608034
+      Arcade - Frogger - General Rip_44: -1844897628
+      Arcade - Frogger - General Rip_45: -2077292026
+      Arcade - Frogger - General Rip_46: 1449488821
+      Arcade - Frogger - General Rip_47: -1342106229
+      Arcade - Frogger - General Rip_48: -1888184496
+      Arcade - Frogger - General Rip_49: -633479164
+      Arcade - Frogger - General Rip_5: 2100160039
+      Arcade - Frogger - General Rip_50: 752542415
+      Arcade - Frogger - General Rip_51: 338144421
+      Arcade - Frogger - General Rip_52: -879282790
+      Arcade - Frogger - General Rip_53: -1788605668
+      Arcade - Frogger - General Rip_54: -342559429
+      Arcade - Frogger - General Rip_55: 1388411775
+      Arcade - Frogger - General Rip_56: 1309955665
+      Arcade - Frogger - General Rip_57: -28531254
+      Arcade - Frogger - General Rip_58: 868048340
+      Arcade - Frogger - General Rip_59: -753095290
+      Arcade - Frogger - General Rip_6: -1739392287
+      Arcade - Frogger - General Rip_60: 1582656708
+      Arcade - Frogger - General Rip_61: -1976754848
+      Arcade - Frogger - General Rip_62: -778068677
+      Arcade - Frogger - General Rip_63: 304883405
+      Arcade - Frogger - General Rip_64: -608852600
+      Arcade - Frogger - General Rip_65: 1015131048
+      Arcade - Frogger - General Rip_66: 2089785974
+      Arcade - Frogger - General Rip_67: 806314303
+      Arcade - Frogger - General Rip_68: -1788764111
+      Arcade - Frogger - General Rip_69: -208083485
+      Arcade - Frogger - General Rip_7: -91719537
+      Arcade - Frogger - General Rip_70: -1341153810
+      Arcade - Frogger - General Rip_71: 723944556
+      Arcade - Frogger - General Rip_72: 967292716
+      Arcade - Frogger - General Rip_73: 2098509679
+      Arcade - Frogger - General Rip_74: 927091460
+      Arcade - Frogger - General Rip_75: -1124845329
+      Arcade - Frogger - General Rip_76: 578170911
+      Arcade - Frogger - General Rip_77: -988229691
+      Arcade - Frogger - General Rip_78: -1357984959
+      Arcade - Frogger - General Rip_79: -139268073
+      Arcade - Frogger - General Rip_8: 1541025422
+      Arcade - Frogger - General Rip_80: -108394053
+      Arcade - Frogger - General Rip_81: 1846797134
+      Arcade - Frogger - General Rip_82: 1453064096
+      Arcade - Frogger - General Rip_83: 1576412310
+      Arcade - Frogger - General Rip_84: 148337213
+      Arcade - Frogger - General Rip_85: -701920307
+      Arcade - Frogger - General Rip_86: 764252618
+      Arcade - Frogger - General Rip_87: 1663321433
+      Arcade - Frogger - General Rip_88: 253836960
+      Arcade - Frogger - General Rip_89: 833804846
+      Arcade - Frogger - General Rip_9: -425646380
+      Arcade - Frogger - General Rip_90: 1808309196
+      Arcade - Frogger - General Rip_91: 1228834155
+      Arcade - Frogger - General Rip_92: 1485917635
+      Arcade - Frogger - General Rip_93: -1580627172
+      Arcade - Frogger - General Rip_94: 255428420
+      Arcade - Frogger - General Rip_95: 885084718
+      Arcade - Frogger - General Rip_96: -997635733
+      Arcade - Frogger - General Rip_97: 1094045135
+      Arcade - Frogger - General Rip_98: 1997511664
+      Arcade - Frogger - General Rip_99: 1754649899
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
