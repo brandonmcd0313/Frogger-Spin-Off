@@ -70,25 +70,8 @@ public class FrogMovementScript : MonoBehaviour
         {
             currentDirection = Direction.Right;
         }
-        else
-        {
-            //default direction
-            currentDirection = Direction.Up;
-        }
 
-        // Guard clauses to prevent movement off the screen
-        if (transform.position.x < leftScreenEdge)
-        {
-            movePoint = new Vector3(leftScreenEdge, movePoint.y, movePoint.z);
-        }
-        else if (transform.position.x > rightScreenEdge)
-        {
-            movePoint = new Vector3(rightScreenEdge, movePoint.y, movePoint.z);
-        }
-        else if (transform.position.y < downScreenEdge)
-        {
-            movePoint = new Vector3(movePoint.x, downScreenEdge, movePoint.z);
-        }
+
 
         //if the frog is near the movePoint position, lock to the grid
         if (Vector3.Distance(transform.position, movePoint) <= 0.05f)
@@ -116,7 +99,27 @@ public class FrogMovementScript : MonoBehaviour
                 movePoint += new Vector3(scaleFactor, 0f, 0f); // Move right
             }
         }
+
+        // Guard clauses to prevent movement off the screen
+        if (movePoint.x < leftScreenEdge)
+        {
+            movePoint = transform.position;
+            currentDirection = Direction.Left;
+            return;
+        }
+        else if (movePoint.x > rightScreenEdge)
+        {
+            movePoint = transform.position;
+            currentDirection = Direction.Right;
+            return;
+        }
+        else if (movePoint.y < downScreenEdge)
+        {
+            movePoint = transform.position;
+            currentDirection = Direction.Down;
+            return;
+        }
     }
 
-  
+
 }
