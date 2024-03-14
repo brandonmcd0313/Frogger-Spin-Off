@@ -3,7 +3,10 @@
 --- !u!78 &1
 TagManager:
   serializedVersion: 2
-  tags: []
+  tags:
+  - Car
+  - Water
+  - Floating
   layers:
   - Default
   - TransparentFX
@@ -40,6 +43,12 @@ TagManager:
   m_SortingLayers:
   - name: Default
     uniqueID: 0
+    locked: 0
+  - name: Deadly
+    uniqueID: 4108025019
+    locked: 0
+  - name: Log
+    uniqueID: 3894838493
     locked: 0
   - name: Player
     uniqueID: 2567638281

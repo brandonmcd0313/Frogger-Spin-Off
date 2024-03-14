@@ -1,5 +1,5 @@
 fileFormatVersion: 2
-guid: 2834f39bc3881984cb0f1719e0bc75ee
+guid: 3c48145668e16f8419bb78f674bf21a1
 TextureImporter:
   internalIDToNameTable: []
   externalObjects: {}
@@ -47,7 +47,7 @@ TextureImporter:
   spriteMeshType: 1
   alignment: 0
   spritePivot: {x: 0.5, y: 0.5}
-  spritePixelsToUnits: 26.666666
+  spritePixelsToUnits: 16
   spriteBorder: {x: 0, y: 0, z: 0, w: 0}
   spriteGenerateFallbackPhysicsShape: 1
   alphaUsage: 1
@@ -117,12 +117,75 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: 1X1Vechicles_0
+      name: SUBSCRIBE_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 64
+        width: 48
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a0b71e9bfc06f354ca21b54c0af958f6
+      internalID: -1765008607
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SUBSCRIBE_1
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 48
+        width: 48
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: edaea256e4da4d4449778ce4bc6ad964
+      internalID: -1978310649
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SUBSCRIBE_2
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 32
+        width: 48
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f9389c4fbcb3bf841915f950cedce79e
+      internalID: -1023858247
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SUBSCRIBE_3
       rect:
         serializedVersion: 2
         x: 0
         y: 16
-        width: 16
+        width: 48
         height: 16
       alignment: 0
       pivot: {x: 0, y: 0}
@@ -131,40 +194,19 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 4599d19aa3b36f645af075c254df3eb2
-      internalID: -786148574
+      spriteID: dd593ad273dd7134ab6219ef88c1ecc3
+      internalID: 698629524
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: 1X1Vechicles_1
-      rect:
-        serializedVersion: 2
-        x: 16
-        y: 16
-        width: 16
-        height: 16
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 69c086acd188711469d31f777280434e
-      internalID: -1020875686
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: 1X1Vechicles_2
+      name: SUBSCRIBE_4
       rect:
         serializedVersion: 2
         x: 0
         y: 0
-        width: 16
+        width: 48
         height: 16
       alignment: 0
       pivot: {x: 0, y: 0}
@@ -173,29 +215,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 8396bf47c03c5554fa247574ce74632b
-      internalID: -1842313213
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: 1X1Vechicles_3
-      rect:
-        serializedVersion: 2
-        x: 16
-        y: 0
-        width: 16
-        height: 16
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 41f6ed2c934546547b39b114ed323792
-      internalID: -161298040
+      spriteID: c679215fce555854f85cf238004d62d6
+      internalID: 686430419
       vertices: []
       indices: 
       edges: []
@@ -211,10 +232,11 @@ TextureImporter:
     weights: []
     secondaryTextures: []
     nameFileIdTable:
-      1X1Vechicles_0: -786148574
-      1X1Vechicles_1: -1020875686
-      1X1Vechicles_2: -1842313213
-      1X1Vechicles_3: -161298040
+      SUBSCRIBE_0: -1765008607
+      SUBSCRIBE_1: -1978310649
+      SUBSCRIBE_2: -1023858247
+      SUBSCRIBE_3: 698629524
+      SUBSCRIBE_4: 686430419
   spritePackingTag: 
   pSDRemoveMatte: 0
   pSDShowRemoveMatteOption: 0
