@@ -40,9 +40,7 @@ public class LandVehicleSpawnManager : MonoBehaviour
 
 
             // Wait for the specified time with a second of viariation
-            float wait = landVehicleSpawnRates[prefabIndex] + Random.Range(-1f, 1f);
-            print("Waiting for " + wait + " seconds");
-            yield return new WaitForSeconds(landVehicleSpawnRates[prefabIndex] + Random.Range(0f, 1f));
+            yield return new WaitForSeconds(landVehicleSpawnRates[prefabIndex] + Random.Range(-0.2f, 1f));
         }
     }
 }

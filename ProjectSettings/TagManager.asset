@@ -7,6 +7,7 @@ TagManager:
   - Car
   - Water
   - Floating
+  - Win
   layers:
   - Default
   - TransparentFX
@@ -52,4 +53,7 @@ TagManager:
     locked: 0
   - name: Player
     uniqueID: 2567638281
+    locked: 0
+  - name: UI
+    uniqueID: 484606781
     locked: 0
